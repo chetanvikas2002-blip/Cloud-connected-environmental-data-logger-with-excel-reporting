@@ -1,0 +1,2 @@
+# Cloud-connected-environmental-data-logger-with-excel-reporting
+Cloud-connected environmental data logger that monitors temperature, humidity, air quality, &amp; other sensor data in real time. Data is securely uploaded to the cloud for remote access and automatically exported to Excel reports with timestamps, charts, and summaries. Ideal for IoT, smart agriculture, industrial monitoring, and research applications.
